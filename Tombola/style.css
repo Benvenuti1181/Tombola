@@ -1,0 +1,48 @@
+body {
+    background-color: antiquewhite;
+}
+
+.container {
+    display: flex;
+}
+
+.containeruno {
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+.num {
+    font-size: 35px;
+    margin-left: 10px;
+}
+
+.estrai {
+    margin-left: 20px;
+}
+
+
+.containerdue {
+    width: 500px;
+    margin: 30px auto;
+
+    background-color: antiquewhite;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+li {
+    width: 15px;
+    height: 15px;
+
+    padding: 10px;
+    background-color: aquamarine;
+    border: 1px solid black;
+
+    margin: 4px;
+    list-style: none;
+}
